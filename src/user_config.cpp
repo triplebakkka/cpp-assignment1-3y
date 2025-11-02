@@ -17,6 +17,9 @@ void UserConfig::show()
      */
 }
 
-void UserConfig::add_user(std::string user, std::string group) {}
+void UserConfig::add_user(std::string user, std::string group)
+{
+    // IMPLEMENT
+}
 
 } // a1
