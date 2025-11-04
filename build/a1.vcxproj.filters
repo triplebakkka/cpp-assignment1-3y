@@ -21,9 +21,6 @@
     <ClInclude Include="D:\Singleton first assignment\cpp-assignment1-3y\src\system_config.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="D:\Singleton first assignment\cpp-assignment1-3y\src\singleton.hpp">
-      <Filter>Header Files</Filter>
-    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <CustomBuild Include="D:\Singleton first assignment\cpp-assignment1-3y\CMakeLists.txt" />

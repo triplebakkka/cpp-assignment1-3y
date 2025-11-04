@@ -334,7 +334,6 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     <ClCompile Include="D:\Singleton first assignment\cpp-assignment1-3y\src\system_config.cpp" />
     <ClInclude Include="D:\Singleton first assignment\cpp-assignment1-3y\src\system_config.hpp" />
     <ClCompile Include="D:\Singleton first assignment\cpp-assignment1-3y\src\fill.cpp" />
-    <ClInclude Include="D:\Singleton first assignment\cpp-assignment1-3y\src\singleton.hpp" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
